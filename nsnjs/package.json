@@ -1,0 +1,15 @@
+{
+  "name": "nsnjs",
+  "version": "0.0.0",
+  "description": "nsnjs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
